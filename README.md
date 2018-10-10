@@ -1,6 +1,6 @@
 #Vi tod psuedokoden från grupp "nogot-kul", i den gruppen är Hugo och Nils.
 
-# Första kod (nogot-kul 1)
+## Första kod (nogot-kul 1)
 
 1. Vi gör en input med namn "fodelseManad"
 2. Vi bestämmer att "fodelseManad" ska vara integral och den ska vara lika med "fodels"
@@ -8,7 +8,7 @@
 4. Om svaret är ja då programet ska skriva ut svaret för 1250*29+625
 5. Om svaret är nej då programet ska skriva ut svaret för 1250*30
 
-# Andra kod (nogot-kul 2)
+## Andra kod (nogot-kul 2)
 
 1. Vi ställer variabeln "antalBiljetter" till 20
 2. Vi ställer variabeln "galna_musen" till antalBiljetter/3
