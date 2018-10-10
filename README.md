@@ -1,4 +1,4 @@
-# Vi tod psuedokoden från grupp "nogot-kul", i den gruppen är Hugo och Nils.
+# Vi tog psuedokoden från grupp "nogot-kul", i den gruppen är Hugo och Nils.
 
 ## Första kod (nogot-kul 1)
 
