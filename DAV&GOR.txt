@@ -1,0 +1,67 @@
+check to see if num4 => 16 
+    if it is, print ( sum1 )
+    if it is not , print ( sum2 )
+
+********************************************************************************************************
+
+Nr 2
+
+prompt the user 347
+save input to num1
+prompt the user 13,95
+save input to burk1
+prompt the user 30
+save input to burk3
+
+int sum1 = num1 / burk3 
+sum2 = num1 - (burk3 * sum1)
+int sum3 = sum2 / burk1 
+total_sum = sum1 * 3 + sum3 
+
+print total_sum
+
+********************************************************************************************************
+
+Nr 3
+
+set antalBiljeter to 20
+set galna musen to 3
+set lustiga huset to 2
+set flygande kasten to 4
+
+num1 = antalBiljeter/galna musen
+num2 = antalBiljeter/lustiga huset
+num3 = antalBiljeter/flygande kasten
+
+set galna musen to int 
+
+output num1
+output num2
+output num3
+
+********************************************************************************************************
+
+Nr 4
+
+star1 = 4
+star2 = 1
+star3 = 3
+star4 = 3
+
+tid1 = 12
+tid2 = 14
+tid3 = 12
+tid4 = 8
+
+pris1 = 12500
+pris2 = 3423
+pris3 = 9500
+pris4 = 8560
+
+do comparison to check which star value is the gratest 
+do comparison to check which tid value is the lowest 
+do comparison to check which pris value is the lowest
+
+output gratest star value + hotel's name + flygbolag's name
+output lowest tid value + hotel's name + flygbolag's name
+output lowest pris value + hotel's name + flygbolag's name
